@@ -197,21 +197,6 @@ Tool permissions and query boundaries are enforced by application code.
 
 ## 15. Integration Contract
 
-### HW #6 — Plug It In
-
-| Field | Value |
-|---|---|
-| Name | Ifti Mahmood Gazi |
-| Student ID | `[ENTER STUDENT ID]` |
-| Class | CSCI 355 Artificial Intelligence I |
-| Assignment | HW #6 — Plug It In |
-| Date | November 22, 2026 (Eastern Time) |
-
-**AI use**
-
-- OpenAI Codex helped draft the contract and implement the Python gate, fake monitoring backend, and tests.
-- Codex checked that the six tests passed, reviewed both audit records, and verified that Sections 1–14 were preserved.
-
 `query_metrics()` takes one request and can retrieve one simulated metric observation from the specified service and time window.
 
 | Input | Required value |
